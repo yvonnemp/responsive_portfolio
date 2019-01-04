@@ -1,0 +1,14 @@
+{
+  "name": "responsive_portfolio",
+  "version": "1.0.0",
+  "description": "responsive_portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Yvonne Reyes",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
